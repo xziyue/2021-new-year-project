@@ -1,4 +1,4 @@
-#2021 New Year Project
+# 2021 New Year Project
 
 A fully vector-graphics based PDF animation
 
